@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Book",
+        "price": 10.99,
+        "imgUrl": "/images/book.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Book 2",
+        "price": 10.99,
+        "imgUrl": "/images/book2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Computer",
+        "price": 1199,
+        "imgUrl": "/images/computer.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Computer 2",
+        "price": 1199,
+        "imgUrl": "/images/computer2.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Jacket",
+        "price": 1.05,
+        "imgUrl": "/images/jacket.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Shoes",
+        "price": 1.05,
+        "imgUrl": "/images/shoes.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Car",
+        "price": 14000,
+        "imgUrl": "/images/car.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Car 2",
+        "price": 14000,
+        "imgUrl": "/images/car2.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Trauser",
+        "price": 14000,
+        "imgUrl": "/images/trauser.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Trauser 2",
+        "price": 14000,
+        "imgUrl": "/images/trauser-men.jpg"
+    },
+    {
+        "id": 11,
+        "name": "T-shirt",
+        "price": 14000,
+        "imgUrl": "/images/t-shirt.png"
+    },
+    {
+        "id": 12,
+        "name": "Shoes",
+        "price": 1.05,
+        "imgUrl": "/images/shoes.jpg"
+    }
+]
